@@ -5,12 +5,12 @@
 	<a href="https://twitter.com/dericop_"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-- 🔭 I’m currently working in the Open Source Office at Bancolombia.
-- 💬 Ask me about reactive programming, event driven architectures, DDD and Cloud Native
-- 👯 I’m looking to collaborate on Spring and its adjacent communities
-- 🌱 I’m currently learning about Enterprise Open Source and Cloud Formation
-- 📫 How to reach me: https://twitter.com/dericop and danielrico.posada@gmail.com
-- 🤓 I love teaching about software engineering
+- 🔭  I’m currently working in the Open Source Office at Bancolombia.
+- 💬  Ask me about reactive programming, event driven architectures, DDD and Cloud Native
+- 👯  I’m looking to collaborate on Spring and its adjacent communities
+- 🌱  I’m currently learning about Enterprise Open Source and Cloud Formation
+- 📫  How to reach me: https://twitter.com/dericop and danielrico.posada@gmail.com
+- 🤓  I love teaching about software engineering
 
 ### Latest Blog Posts:
 [Manejo de reintentos en sistemas distribuidos orientados a eventos](https://medium.com/bancolombia-tech/manejo-de-reintentos-en-sistemas-distribuidos-orientados-a-eventos-d40f6b196049)
