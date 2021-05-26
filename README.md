@@ -21,7 +21,7 @@
 - [Guía práctica de autenticación basada en tokens para NodeJS](https://medium.com/@danielrico.posada/gu%C3%ADa-pr%C3%A1ctica-de-autenticaci%C3%B3n-basada-en-tokens-para-nodejs-caccf2ba7efb)
 
 ### Talks and workshops:
-
+- (2021) Paralelismo y programación reactiva. Bancolombia, Comunidad IngSW.
 - (2021) Manejo de reintentos en sistemas distribuidos orientados a eventos. Bancolombia, Comunidad IngSW.
 - (2021) DocumentDB vs MongoDB. Bancolombia, Comunidad IngSW.
 - (2020) Acelerando el desarrollo de proyectos bajo Clean Architecture. Java Medellín, Manizales Tech Talks (https://youtu.be/52gYHQto-os)
