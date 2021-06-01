@@ -8,7 +8,7 @@
 - 🔭  I’m currently working in the Open Source Office at Bancolombia.
 - 💬  Ask me about reactive programming, event driven architectures, DDD and Cloud Native
 - 👯  I’m looking to collaborate on Spring and its adjacent communities
-- 🌱  I’m currently learning about Enterprise Open Source and Functional Programming
+- 🌱  I’m currently learning about Elixir and Enterprise Open Source
 - 📫  How to reach me: https://twitter.com/dericop and danielrico.posada@gmail.com
 - 🤓  I love teaching about software engineering
 - 🏄  I use Java, Spring, Reactor, RabbitMQ, Docker and AWS. 
