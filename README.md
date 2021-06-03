@@ -14,6 +14,8 @@
 - 🏄  I use Java, Spring, Reactor, RabbitMQ, Docker and AWS. 
 
 ### Latest Blog Posts:
+- [¿Qué hace una oficina Open Source en un banco?](https://medium.com/bancolombia-tech/qu%C3%A9-hace-una-oficina-open-source-en-un-banco-3012d4e8ec0e)
+- [¿Cómo realizar un taller de Domain Driven Design?](https://medium.com/bancolombia-tech/c%C3%B3mo-realizar-un-taller-de-domain-driven-design-estrat%C3%A9gico-58abe3e8cacf)
 - [Manejo de reintentos en sistemas distribuidos orientados a eventos](https://medium.com/bancolombia-tech/manejo-de-reintentos-en-sistemas-distribuidos-orientados-a-eventos-d40f6b196049)
 - [10 herramientas útiles para un proyecto de desarrollo software](https://medium.com/bancolombia-tech/10-herramientas-%C3%BAtiles-para-un-proyecto-de-desarrollo-software-62db24c1aa72)
 - [Criterios para elegir un stack tecnológico](https://medium.com/bancolombia-tech/criterios-para-elegir-un-stack-tecnol%C3%B3gico-15dfa25764f6)
