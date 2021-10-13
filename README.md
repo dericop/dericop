@@ -7,7 +7,7 @@
 
 - 🔭  I’m currently working in the Open Source Office at Bancolombia.
 - 💬  Ask me about reactive programming, event driven architectures, DDD and Cloud Native
-- 👯  I’m looking to collaborate on Spring and its adjacent communities
+- 👯  I’m looking to collaborate on NodeJS, Spring and its adjacent communities
 - 🌱  I’m currently learning about Elixir and Enterprise Open Source
 - 📫  How to reach me: https://twitter.com/dericop and danielrico.posada@gmail.com
 - 🤓  I love teaching about software engineering
@@ -23,6 +23,7 @@
 - [Guía práctica de autenticación basada en tokens para NodeJS](https://medium.com/@danielrico.posada/gu%C3%ADa-pr%C3%A1ctica-de-autenticaci%C3%B3n-basada-en-tokens-para-nodejs-caccf2ba7efb)
 
 ### Talks and workshops:
+- (2021) What is doing an Open Source Office in a bank?. `Open Source Summit, Seattle, WA. (Linux Foundation)`
 - (2021) Paralelismo y programación reactiva. `Bancolombia, Comunidad IngSW.`
 - (2021) Manejo de reintentos en sistemas distribuidos orientados a eventos. `Bancolombia, Comunidad IngSW.`
 - (2021) DocumentDB vs MongoDB. `Bancolombia, Comunidad IngSW.`
