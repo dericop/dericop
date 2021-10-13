@@ -11,7 +11,7 @@
 - 🌱  I’m currently learning about Elixir and Enterprise Open Source
 - 📫  How to reach me: https://twitter.com/dericop and danielrico.posada@gmail.com
 - 🤓  I love teaching about software engineering
-- 🏄  I use Java, Spring, Reactor, RabbitMQ, Docker and AWS. 
+- 🏄  I use Nodejs, Java, Spring, Reactor, RabbitMQ, Docker and AWS. 
 
 ### Latest Blog Posts:
 - [¿Qué hace una oficina Open Source en un banco?](https://medium.com/bancolombia-tech/qu%C3%A9-hace-una-oficina-open-source-en-un-banco-3012d4e8ec0e)
