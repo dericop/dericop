@@ -14,7 +14,7 @@
 - [Guía práctica de autenticación basada en tokens para NodeJS](https://medium.com/@danielrico.posada/gu%C3%ADa-pr%C3%A1ctica-de-autenticaci%C3%B3n-basada-en-tokens-para-nodejs-caccf2ba7efb)
 
 ### Talks and workshops:
-- (2022) Lessons Learned after 1 year running an OSPO (https://www.youtube.com/watch?v=9u7s3Sp0GD4)
+- (2022) Lessons Learned after 1 year running an OSPO `Open Source Summit, Austin, TX. (Linux Foundation)` (https://www.youtube.com/watch?v=9u7s3Sp0GD4)
 - (2021) What is doing an Open Source Office in a bank?. `Open Source Summit, Seattle, WA. (Linux Foundation)`
 - (2021) Paralelismo y programación reactiva. `Bancolombia, Comunidad IngSW.`
 - (2021) Manejo de reintentos en sistemas distribuidos orientados a eventos. `Bancolombia, Comunidad IngSW.`
